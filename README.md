@@ -1,5 +1,5 @@
 
-# tes sv backend  _(golang)_
+# simple crud  _(golang)_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -14,7 +14,7 @@
 
 ## Documentation
 - no 1 ada di folder query
-- no 2 lakukan Manual install project Golang (port 8080 )
+- no 2 lakukan Manual install project Golang ( port 8080 )
 
 
 ## Installation
