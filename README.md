@@ -1,5 +1,5 @@
 
-# simple crud  _(golang)_
+# simple api  _(golang)_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
